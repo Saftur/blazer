@@ -20,15 +20,22 @@ public class Scalable : MonoBehaviour
     public void ChangeScale(float Scalar)
     {
         SizeScalar += Scalar;
-        gameObject.transform.localScale = Scale * SizeScalar;
-        if (OnScale != null) OnScale(SizeScalar);
+        gameObject.transform.localScale.Set(Scale.x * SizeScalar, Scale.y * SizeScalar, Scale.z);
+        OnScale?.Invoke(SizeScalar);
     }
 
     private void OnTriggerStay2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Scalar"))
         {
-            ChangeScale(other.gameObject.GetComponent<SizeChanger>().ScaleAmount);
+            Bounds selfBounds = GetComponent<BoxCollider2D>().bounds;
+            Bounds otherBounds = other.GetComponent<BoxCollider2D>().bounds;
+
+            if (selfBounds.Contains(otherBounds.max) && selfBounds.Contains(otherBounds.min))
+            {
+                ChangeScale(other.gameObject.GetComponent<SizeChanger>().ScaleAmount);
+            }
+
         }
     }
 }
