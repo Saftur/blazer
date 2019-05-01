@@ -34,6 +34,7 @@ public class Scalable : MonoBehaviour
             if (selfBounds.Contains(otherBounds.max) && selfBounds.Contains(otherBounds.min))
             {
                 ChangeScale(other.gameObject.GetComponent<SizeChanger>().ScaleAmount);
+                Destroy(other.gameObject);
             }
 
         }
