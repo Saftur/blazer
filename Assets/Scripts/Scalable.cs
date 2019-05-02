@@ -20,7 +20,7 @@ public class Scalable : MonoBehaviour
     public void ChangeScale(float Scalar)
     {
         SizeScalar += Scalar;
-        gameObject.transform.localScale.Set(Scale.x * SizeScalar, Scale.y * SizeScalar, Scale.z);
+        gameObject.transform.localScale = new Vector3(Scale.x * SizeScalar, Scale.y * SizeScalar, Scale.z);
         OnScale?.Invoke(SizeScalar);
     }
 
