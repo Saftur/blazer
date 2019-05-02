@@ -111,3 +111,606 @@ Assets/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs
 Assets/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs.meta
 Assets/ConsolePro/Remote/LiteNetLib/SimpleChannel.cs
 Assets/ConsolePro/Remote/LiteNetLib/SimpleChannel.cs.meta
+Assets/EModules.meta
+Assets/EModules/Hierarchy.meta
+Assets/EModules/Hierarchy/CustomModule_Example.cs
+Assets/EModules/Hierarchy/CustomModule_Example.cs.meta
+Assets/EModules/Hierarchy/Demo Scenes.meta
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example Scene.unity
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example Scene.unity.meta
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example.meta
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example/EModules Example Audio.wav
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example/EModules Example Audio.wav.meta
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example/EModules Example Material.mat
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example/EModules Example Material.mat.meta
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example/EModules Example Prefab.prefab
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example/EModules Example Prefab.prefab.meta
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example/EModules Example Texture.png
+Assets/EModules/Hierarchy/Demo Scenes/Hierarchy Example/EModules Example Texture.png.meta
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example Scene.unity
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example Scene.unity.meta
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example.meta
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/GameObjectManager.cs
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/GameObjectManager.cs.meta
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/prefab_explosion.prefab
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/prefab_explosion.prefab.meta
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/PrefabLibrary.cs
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/PrefabLibrary.cs.meta
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/Script_A.cs
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/Script_A.cs.meta
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/Script_B.cs
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/Script_B.cs.meta
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/Script_C.cs
+Assets/EModules/Hierarchy/Demo Scenes/HyperGraph Example/Script_C.cs.meta
+Assets/EModules/Hierarchy/Documentations.meta
+Assets/EModules/Hierarchy/Documentations/01 Getting Started.meta
+Assets/EModules/Hierarchy/Documentations/01 Getting Started/01-Introduction.pdf
+Assets/EModules/Hierarchy/Documentations/01 Getting Started/01-Introduction.pdf.meta
+Assets/EModules/Hierarchy/Documentations/01 Getting Started/02 General Features.php.pdf
+Assets/EModules/Hierarchy/Documentations/01 Getting Started/02 General Features.php.pdf.meta
+Assets/EModules/Hierarchy/Documentations/01 Getting Started/03-Installation.pdf
+Assets/EModules/Hierarchy/Documentations/01 Getting Started/03-Installation.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/01-Enable-Disable-GameObject.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/01-Enable-Disable-GameObject.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/02-Components.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/02-Components.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/03-Descriptions.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/03-Descriptions.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/04-Order_-Tags_-Layers.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/04-Order_-Tags_-Layers.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/05-Memory-Optimizer.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/05-Memory-Optimizer.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/06-Prefab.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/06-Prefab.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/07-Lock-State.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/07-Lock-State.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/08-Audio.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/08-Audio.pdf.meta
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/09-PlayMode-Data-Keeper.pdf
+Assets/EModules/Hierarchy/Documentations/02 Right Panel/09-PlayMode-Data-Keeper.pdf.meta
+Assets/EModules/Hierarchy/Documentations/03 Left Panel.meta
+Assets/EModules/Hierarchy/Documentations/03 Left Panel/01 Highlighter Window.php.pdf
+Assets/EModules/Hierarchy/Documentations/03 Left Panel/01 Highlighter Window.php.pdf.meta
+Assets/EModules/Hierarchy/Documentations/04 Bottom Panel.meta
+Assets/EModules/Hierarchy/Documentations/04 Bottom Panel/01 Navigation Module.php.pdf
+Assets/EModules/Hierarchy/Documentations/04 Bottom Panel/01 Navigation Module.php.pdf.meta
+Assets/EModules/Hierarchy/Documentations/04 Bottom Panel/02 HyperGraph .php.pdf
+Assets/EModules/Hierarchy/Documentations/04 Bottom Panel/02 HyperGraph .php.pdf.meta
+Assets/EModules/Hierarchy/Documentations/05 Other.meta
+Assets/EModules/Hierarchy/Documentations/05 Other/01 Custom Extensible Menu.php.pdf
+Assets/EModules/Hierarchy/Documentations/05 Other/01 Custom Extensible Menu.php.pdf.meta
+Assets/EModules/Hierarchy/Documentations/05 Other/02 Search Box.php.pdf
+Assets/EModules/Hierarchy/Documentations/05 Other/02 Search Box.php.pdf.meta
+Assets/EModules/Hierarchy/Documentations/05 Other/03 Cache and Data Storage.php.pdf
+Assets/EModules/Hierarchy/Documentations/05 Other/03 Cache and Data Storage.php.pdf.meta
+Assets/EModules/Hierarchy/FunctionsDisplaying_Example.cs
+Assets/EModules/Hierarchy/FunctionsDisplaying_Example.cs.meta
+Assets/EModules/Hierarchy/HierarchyPro TopMenuItems And Hotkeys.cs
+Assets/EModules/Hierarchy/HierarchyPro TopMenuItems And Hotkeys.cs.meta
+Assets/EModules/Hierarchy/HierarchySettings_ComponentsIcons.asset
+Assets/EModules/Hierarchy/HierarchySettings_ComponentsIcons.asset.meta
+Assets/EModules/Hierarchy/HierarchySettings_HighLighter.asset
+Assets/EModules/Hierarchy/HierarchySettings_HighLighter.asset.meta
+Assets/EModules/Hierarchy/Icons.meta
+Assets/EModules/Hierarchy/Icons/Hi_checkBox.png
+Assets/EModules/Hierarchy/Icons/Hi_checkBox.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_checkBoxOn1.png
+Assets/EModules/Hierarchy/Icons/Hi_checkBoxOn1.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_checkBoxOn2.png
+Assets/EModules/Hierarchy/Icons/Hi_checkBoxOn2.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_dot.png
+Assets/EModules/Hierarchy/Icons/Hi_dot.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_dotBright.png
+Assets/EModules/Hierarchy/Icons/Hi_dotBright.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_errorGray.png
+Assets/EModules/Hierarchy/Icons/Hi_errorGray.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_errorRed.png
+Assets/EModules/Hierarchy/Icons/Hi_errorRed.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_favorite.png
+Assets/EModules/Hierarchy/Icons/Hi_favorite.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_folder.png
+Assets/EModules/Hierarchy/Icons/Hi_folder.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_icon1.png
+Assets/EModules/Hierarchy/Icons/Hi_icon1.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_icon2.png
+Assets/EModules/Hierarchy/Icons/Hi_icon2.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_iconA.png
+Assets/EModules/Hierarchy/Icons/Hi_iconA.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_iconMy.png
+Assets/EModules/Hierarchy/Icons/Hi_iconMy.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_infoBox.png
+Assets/EModules/Hierarchy/Icons/Hi_infoBox.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_tag.png
+Assets/EModules/Hierarchy/Icons/Hi_tag.png.meta
+Assets/EModules/Hierarchy/Icons/Hi_warning.png
+Assets/EModules/Hierarchy/Icons/Hi_warning.png.meta
+Assets/EModules/Hierarchy/RightClickObjectLeftMenu_Example.cs
+Assets/EModules/Hierarchy/RightClickObjectLeftMenu_Example.cs.meta
+Assets/EModules/Hierarchy/SharedFolder.meta
+Assets/EModules/Hierarchy/SharedFolder/DescriptionFlush.cs
+Assets/EModules/Hierarchy/SharedFolder/DescriptionFlush.cs.meta
+Assets/EModules/Hierarchy/SharedFolder/DescriptionHelper.cs
+Assets/EModules/Hierarchy/SharedFolder/DescriptionHelper.cs.meta
+Assets/EModules/Hierarchy/SharedFolder/DescriptionRegistrator.cs
+Assets/EModules/Hierarchy/SharedFolder/DescriptionRegistrator.cs.meta
+Assets/EModules/Hierarchy/SharedFolder/Hierarchy (MAYA outliner) Handler.dll
+Assets/EModules/Hierarchy/SharedFolder/Hierarchy (MAYA outliner) Handler.dll.meta
+Assets/EModules/Hierarchy/SharedFolder/Hierarchy (MAYA outliner) Plugin.dll
+Assets/EModules/Hierarchy/SharedFolder/Hierarchy (MAYA outliner) Plugin.dll.meta
+Assets/EModules/Hierarchy/Source.meta
+Assets/EModules/Hierarchy/Source/Hierarchy (MAYA outliner) Editor.dll
+Assets/EModules/Hierarchy/Source/Hierarchy (MAYA outliner) Editor.dll.meta
+Assets/Plugins.meta
+Assets/Plugins/NeonFolders.meta
+Assets/Plugins/NeonFolders/Basics.asset
+Assets/Plugins/NeonFolders/Basics.asset.meta
+Assets/Plugins/NeonFolders/DefaultRules.asset
+Assets/Plugins/NeonFolders/DefaultRules.asset.meta
+Assets/Plugins/NeonFolders/Demo.meta
+Assets/Plugins/NeonFolders/Demo/Android.meta
+Assets/Plugins/NeonFolders/Demo/Android/empty.txt
+Assets/Plugins/NeonFolders/Demo/Android/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Animations.meta
+Assets/Plugins/NeonFolders/Demo/Animations/empty.txt
+Assets/Plugins/NeonFolders/Demo/Animations/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Audio.meta
+Assets/Plugins/NeonFolders/Demo/Audio/empty.txt
+Assets/Plugins/NeonFolders/Demo/Audio/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/CompleteIcons.meta
+Assets/Plugins/NeonFolders/Demo/CompleteIcons/empty.txt
+Assets/Plugins/NeonFolders/Demo/CompleteIcons/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Gizmos.meta
+Assets/Plugins/NeonFolders/Demo/Gizmos/empty.txt
+Assets/Plugins/NeonFolders/Demo/Gizmos/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/IPhone.meta
+Assets/Plugins/NeonFolders/Demo/IPhone/empty.txt
+Assets/Plugins/NeonFolders/Demo/IPhone/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Linux.meta
+Assets/Plugins/NeonFolders/Demo/Linux/empty.txt
+Assets/Plugins/NeonFolders/Demo/Linux/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Mac.meta
+Assets/Plugins/NeonFolders/Demo/Mac/empty.txt
+Assets/Plugins/NeonFolders/Demo/Mac/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Materials.meta
+Assets/Plugins/NeonFolders/Demo/Materials/empty.txt
+Assets/Plugins/NeonFolders/Demo/Materials/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Meshes.meta
+Assets/Plugins/NeonFolders/Demo/Meshes/empty.txt
+Assets/Plugins/NeonFolders/Demo/Meshes/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/NeonFolders.meta
+Assets/Plugins/NeonFolders/Demo/NeonFolders/empty.txt
+Assets/Plugins/NeonFolders/Demo/NeonFolders/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Platforms.meta
+Assets/Plugins/NeonFolders/Demo/Platforms/empty.txt
+Assets/Plugins/NeonFolders/Demo/Platforms/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Playstation.meta
+Assets/Plugins/NeonFolders/Demo/Playstation/empty.txt
+Assets/Plugins/NeonFolders/Demo/Playstation/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Prefabs.meta
+Assets/Plugins/NeonFolders/Demo/Prefabs/empty.txt
+Assets/Plugins/NeonFolders/Demo/Prefabs/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Scenes.meta
+Assets/Plugins/NeonFolders/Demo/Scenes/empty.txt
+Assets/Plugins/NeonFolders/Demo/Scenes/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Scripts.meta
+Assets/Plugins/NeonFolders/Demo/Scripts/empty.txt
+Assets/Plugins/NeonFolders/Demo/Scripts/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Sounds.meta
+Assets/Plugins/NeonFolders/Demo/Sounds/empty.txt
+Assets/Plugins/NeonFolders/Demo/Sounds/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Terrains.meta
+Assets/Plugins/NeonFolders/Demo/Terrains/empty.txt
+Assets/Plugins/NeonFolders/Demo/Terrains/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Textures.meta
+Assets/Plugins/NeonFolders/Demo/Textures/empty.txt
+Assets/Plugins/NeonFolders/Demo/Textures/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/Win.meta
+Assets/Plugins/NeonFolders/Demo/Win/empty.txt
+Assets/Plugins/NeonFolders/Demo/Win/empty.txt.meta
+Assets/Plugins/NeonFolders/Demo/XBox.meta
+Assets/Plugins/NeonFolders/Demo/XBox/empty.txt
+Assets/Plugins/NeonFolders/Demo/XBox/empty.txt.meta
+Assets/Plugins/NeonFolders/Editor.meta
+Assets/Plugins/NeonFolders/Editor/ContextMenus.cs
+Assets/Plugins/NeonFolders/Editor/ContextMenus.cs.meta
+Assets/Plugins/NeonFolders/Editor/Gui.meta
+Assets/Plugins/NeonFolders/Editor/Gui/BaseEditor.cs
+Assets/Plugins/NeonFolders/Editor/Gui/BaseEditor.cs.meta
+Assets/Plugins/NeonFolders/Editor/Gui/PresetEditor.cs
+Assets/Plugins/NeonFolders/Editor/Gui/PresetEditor.cs.meta
+Assets/Plugins/NeonFolders/Editor/Gui/RuleSetEditor.cs
+Assets/Plugins/NeonFolders/Editor/Gui/RuleSetEditor.cs.meta
+Assets/Plugins/NeonFolders/Editor/Gui/Windows.meta
+Assets/Plugins/NeonFolders/Editor/Gui/Windows/DraggableWindow.cs
+Assets/Plugins/NeonFolders/Editor/Gui/Windows/DraggableWindow.cs.meta
+Assets/Plugins/NeonFolders/Editor/Gui/Windows/EditFolderPopup.cs
+Assets/Plugins/NeonFolders/Editor/Gui/Windows/EditFolderPopup.cs.meta
+Assets/Plugins/NeonFolders/Editor/IconLayer.cs
+Assets/Plugins/NeonFolders/Editor/IconLayer.cs.meta
+Assets/Plugins/NeonFolders/Editor/MultiLayerIcon.cs
+Assets/Plugins/NeonFolders/Editor/MultiLayerIcon.cs.meta
+Assets/Plugins/NeonFolders/Editor/NeonFolders.cs
+Assets/Plugins/NeonFolders/Editor/NeonFolders.cs.meta
+Assets/Plugins/NeonFolders/Editor/Overlays.meta
+Assets/Plugins/NeonFolders/Editor/Overlays/EditOverlay.cs
+Assets/Plugins/NeonFolders/Editor/Overlays/EditOverlay.cs.meta
+Assets/Plugins/NeonFolders/Editor/Overlays/FolderOverlay.cs
+Assets/Plugins/NeonFolders/Editor/Overlays/FolderOverlay.cs.meta
+Assets/Plugins/NeonFolders/Editor/Overlays/PreviewOverlay.cs
+Assets/Plugins/NeonFolders/Editor/Overlays/PreviewOverlay.cs.meta
+Assets/Plugins/NeonFolders/Editor/Overlays/RuleSetOverlay.cs
+Assets/Plugins/NeonFolders/Editor/Overlays/RuleSetOverlay.cs.meta
+Assets/Plugins/NeonFolders/Editor/Plugins.meta
+Assets/Plugins/NeonFolders/Editor/Plugins/GlobPattern.dll
+Assets/Plugins/NeonFolders/Editor/Plugins/GlobPattern.dll.meta
+Assets/Plugins/NeonFolders/Editor/Plugins/LICENSE.txt
+Assets/Plugins/NeonFolders/Editor/Plugins/LICENSE.txt.meta
+Assets/Plugins/NeonFolders/Editor/Preset.cs
+Assets/Plugins/NeonFolders/Editor/Preset.cs.meta
+Assets/Plugins/NeonFolders/Editor/Resources.cs
+Assets/Plugins/NeonFolders/Editor/Resources.cs.meta
+Assets/Plugins/NeonFolders/Editor/Rule.cs
+Assets/Plugins/NeonFolders/Editor/Rule.cs.meta
+Assets/Plugins/NeonFolders/Editor/RuleSet.cs
+Assets/Plugins/NeonFolders/Editor/RuleSet.cs.meta
+Assets/Plugins/NeonFolders/Icons.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/_LICENSE.txt
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/_LICENSE.txt.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/blue_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/blue_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/bondi_blue_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/bondi_blue_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/green_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/green_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/indigo_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/indigo_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/lime_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/lime_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/magenta_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/magenta_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/orange_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/orange_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/red_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/red_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/vermilion_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/vermilion_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/violet_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/violet_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/yellow_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/yellow_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/yellow_orange_folder.png
+Assets/Plugins/NeonFolders/Icons/ColoredFolders/yellow_orange_folder.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/_LICENSE.txt
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/_LICENSE.txt.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/animations_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/animations_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/animations_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/animations_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/audio_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/audio_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/audio_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/audio_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/brackets_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/brackets_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/brackets_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/brackets_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/extensions_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/extensions_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/extensions_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/extensions_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/fonts_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/fonts_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/fonts_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/fonts_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/materials_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/materials_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/materials_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/materials_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/meshes_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/meshes_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/meshes_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/meshes_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/music_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/music_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/music_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/music_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/plugins_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/plugins_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/plugins_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/plugins_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/prefabs_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/prefabs_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/prefabs_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/prefabs_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/scenes_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/scenes_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/scenes_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/scenes_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/scripts_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/scripts_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/scripts_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/scripts_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/settings_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/settings_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/settings_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/settings_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/shaders_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/shaders_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/shaders_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/shaders_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/sounds_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/sounds_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/sounds_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/sounds_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/terrains_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/terrains_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/terrains_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/terrains_64.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/textures_16.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/textures_16.png.meta
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/textures_64.png
+Assets/Plugins/NeonFolders/Icons/CompleteIcons/textures_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Folders.meta
+Assets/Plugins/NeonFolders/Icons/Folders/Default.png
+Assets/Plugins/NeonFolders/Icons/Folders/Default.png.meta
+Assets/Plugins/NeonFolders/Icons/Folders/DefaultFront.png
+Assets/Plugins/NeonFolders/Icons/Folders/DefaultFront.png.meta
+Assets/Plugins/NeonFolders/Icons/Folders/DefaultGradient.png
+Assets/Plugins/NeonFolders/Icons/Folders/DefaultGradient.png.meta
+Assets/Plugins/NeonFolders/Icons/Folders/DefaultGradientDiag.png
+Assets/Plugins/NeonFolders/Icons/Folders/DefaultGradientDiag.png.meta
+Assets/Plugins/NeonFolders/Icons/Folders/Light.png
+Assets/Plugins/NeonFolders/Icons/Folders/Light.png.meta
+Assets/Plugins/NeonFolders/Icons/Folders/LightFront.png
+Assets/Plugins/NeonFolders/Icons/Folders/LightFront.png.meta
+Assets/Plugins/NeonFolders/Icons/Folders/LightGradient.png
+Assets/Plugins/NeonFolders/Icons/Folders/LightGradient.png.meta
+Assets/Plugins/NeonFolders/Icons/Folders/LightGradientDiag.png
+Assets/Plugins/NeonFolders/Icons/Folders/LightGradientDiag.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/audio.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/audio.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/bag.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/bag.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/bang.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/bang.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/bolt.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/bolt.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/book.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/book.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/broadcast.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/broadcast.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/building.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/building.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/calculator.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/calculator.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/camera.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/camera.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/car.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/car.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/check.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/check.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/circle.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/circle.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/clock.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/clock.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/cloud.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/cloud.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/crop.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/crop.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/cup.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/cup.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/cursor.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/cursor.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/cutlery.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/cutlery.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/denied.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/denied.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/down_arrow.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/down_arrow.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/download.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/download.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/entrance.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/entrance.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/envelope.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/envelope.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/exit.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/exit.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/external.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/external.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/eye.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/eye.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/file.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/file.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/fire.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/fire.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/folder.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/folder.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/gear.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/gear.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/heart.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/heart.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/home.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/home.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/leaf.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/leaf.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/left_arrow.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/left_arrow.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/left_chevron.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/left_chevron.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/location.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/location.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/lock.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/lock.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/message.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/message.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/moon.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/moon.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/note.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/note.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/pause.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/pause.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/phone.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/phone.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/pin.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/pin.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/plane.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/plane.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/play.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/play.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/plus.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/plus.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/power.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/power.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/reload.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/reload.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/resize.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/resize.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/right_arrow.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/right_arrow.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/right_chevron.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/right_chevron.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/rubbish.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/rubbish.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/search.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/search.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/snowflake.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/snowflake.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/square.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/square.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/star.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/star.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/sun.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/sun.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/toggle.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/toggle.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/tree.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/tree.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/triangle.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/triangle.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/up_arrow.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/up_arrow.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/upload.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Icons/upload.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Neon.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Neon.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/ScriptableObject.png
+Assets/Plugins/NeonFolders/Icons/Overlays/ScriptableObject.png.meta
+Assets/Plugins/NeonFolders/Icons/Overlays/Unity.png
+Assets/Plugins/NeonFolders/Icons/Overlays/Unity.png.meta
+Assets/Plugins/NeonFolders/Icons/Platforms.meta
+Assets/Plugins/NeonFolders/Icons/Platforms/android_64.png
+Assets/Plugins/NeonFolders/Icons/Platforms/android_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Platforms/apple_64.png
+Assets/Plugins/NeonFolders/Icons/Platforms/apple_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Platforms/iphone_64.png
+Assets/Plugins/NeonFolders/Icons/Platforms/iphone_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Platforms/linux_64.png
+Assets/Plugins/NeonFolders/Icons/Platforms/linux_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Platforms/playstation_64.png
+Assets/Plugins/NeonFolders/Icons/Platforms/playstation_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Platforms/webgl_64.png
+Assets/Plugins/NeonFolders/Icons/Platforms/webgl_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Platforms/windows_64.png
+Assets/Plugins/NeonFolders/Icons/Platforms/windows_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Platforms/xbox_64.png
+Assets/Plugins/NeonFolders/Icons/Platforms/xbox_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Special.meta
+Assets/Plugins/NeonFolders/Icons/Special/_LICENSE.txt
+Assets/Plugins/NeonFolders/Icons/Special/_LICENSE.txt.meta
+Assets/Plugins/NeonFolders/Icons/Special/editor_16.png
+Assets/Plugins/NeonFolders/Icons/Special/editor_16.png.meta
+Assets/Plugins/NeonFolders/Icons/Special/editor_64.png
+Assets/Plugins/NeonFolders/Icons/Special/editor_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Special/editor_resources_16.png
+Assets/Plugins/NeonFolders/Icons/Special/editor_resources_16.png.meta
+Assets/Plugins/NeonFolders/Icons/Special/editor_resources_64.png
+Assets/Plugins/NeonFolders/Icons/Special/editor_resources_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Special/gizmos_16.png
+Assets/Plugins/NeonFolders/Icons/Special/gizmos_16.png.meta
+Assets/Plugins/NeonFolders/Icons/Special/gizmos_64.png
+Assets/Plugins/NeonFolders/Icons/Special/gizmos_64.png.meta
+Assets/Plugins/NeonFolders/Icons/Special/resources_16.png
+Assets/Plugins/NeonFolders/Icons/Special/resources_16.png.meta
+Assets/Plugins/NeonFolders/Icons/Special/resources_64.png
+Assets/Plugins/NeonFolders/Icons/Special/resources_64.png.meta
+Assets/Plugins/NeonFolders/Platforms.asset
+Assets/Plugins/NeonFolders/Platforms.asset.meta
+Assets/Plugins/NeonFolders/Presets.meta
+Assets/Plugins/NeonFolders/Presets/Basics.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Animations.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Animations.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Audio.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Audio.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Brackets.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Brackets.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Extensions.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Extensions.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Fonts.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Fonts.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Materials.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Materials.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Meshes.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Meshes.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Music.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Music.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Plugins.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Plugins.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Prefabs.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Prefabs.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Scenes.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Scenes.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Scripts.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Scripts.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Settings.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Settings.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Shaders.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Shaders.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Sounds.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Sounds.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Terrains.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Terrains.asset.meta
+Assets/Plugins/NeonFolders/Presets/Basics/Textures.asset
+Assets/Plugins/NeonFolders/Presets/Basics/Textures.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/Android.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/Android.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/Apple.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/Apple.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/IPhone.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/IPhone.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/Linux.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/Linux.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/Platforms.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/Platforms.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/Playstation.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/Playstation.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/WebGL.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/WebGL.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/Windows.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/Windows.asset.meta
+Assets/Plugins/NeonFolders/Presets/Platforms/XBox.asset
+Assets/Plugins/NeonFolders/Presets/Platforms/XBox.asset.meta
+Assets/Plugins/NeonFolders/Presets/Special.meta
+Assets/Plugins/NeonFolders/Presets/Special/ColoredFolders.asset
+Assets/Plugins/NeonFolders/Presets/Special/ColoredFolders.asset.meta
+Assets/Plugins/NeonFolders/Presets/Special/CompleteIcons.asset
+Assets/Plugins/NeonFolders/Presets/Special/CompleteIcons.asset.meta
+Assets/Plugins/NeonFolders/Presets/Special/Editor.asset
+Assets/Plugins/NeonFolders/Presets/Special/Editor.asset.meta
+Assets/Plugins/NeonFolders/Presets/Special/Editor_resources.asset
+Assets/Plugins/NeonFolders/Presets/Special/Editor_resources.asset.meta
+Assets/Plugins/NeonFolders/Presets/Special/Gizmos.asset
+Assets/Plugins/NeonFolders/Presets/Special/Gizmos.asset.meta
+Assets/Plugins/NeonFolders/Presets/Special/NeonFolders.asset
+Assets/Plugins/NeonFolders/Presets/Special/NeonFolders.asset.meta
+Assets/Plugins/NeonFolders/Presets/Special/NeonFoldersGray.asset
+Assets/Plugins/NeonFolders/Presets/Special/NeonFoldersGray.asset.meta
+Assets/Plugins/NeonFolders/Presets/Special/Resources.asset
+Assets/Plugins/NeonFolders/Presets/Special/Resources.asset.meta
+Assets/Plugins/NeonFolders/Special.asset
+Assets/Plugins/NeonFolders/Special.asset.meta
