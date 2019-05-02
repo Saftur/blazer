@@ -1,12 +1,16 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour {
 
     [Header ("References")]
     [SerializeField] private Camera mainCamera = default;
     [SerializeField] private Scalable player = default;
+    [Tooltip("Name of next level in the game progression (or end screen)")]
+    [SerializeField] private String nextScene = default;
 
     [Header ("Gameplay")]
     [Tooltip("Maximum player scale before changing levels")]
@@ -14,8 +18,33 @@ public class GameController : MonoBehaviour {
     [Tooltip ("Maximum size of the camera before changing levels")]
     [SerializeField] private float maxCameraSize = default;
 
+    // Speed at which camera changes size
+    [Header ("Visuals")]
+    [Tooltip ("Speed at which camera will zoom in/out")]
+    [SerializeField] private float cameraLerpSpeed = 2.0f;
+
+    [Header ("Level Transition")]
+    [Tooltip ("How many increment cycles to have")]
+    [SerializeField] private int incrementCount = 10;
+    [Tooltip ("How much to scale size each increment cycle")]
+    [SerializeField] private float incrementScale = 1.1f;
+    [Tooltip ("Delay between increment cycles")]
+    [SerializeField] private float waitTime = 0.05f;
+
     // Initial size of the camera
     private float cameraInitSize;
+    // Size camera should be at
+    private float cameraTargetSize;
+
+    // Pause variables
+    private float savedTimeScale;
+    private bool paused = false;
+    public bool Paused {
+        get { return paused; }
+    }
+
+    // Currently changing levels
+    private bool transititoning = false;
 
     // Start is called before the first frame update
     void Start () {
@@ -24,22 +53,61 @@ public class GameController : MonoBehaviour {
 
         // Initialize intial camera Size
         cameraInitSize = mainCamera.orthographicSize;
+        // Initialize camera target size
+        cameraTargetSize = cameraInitSize;
     }
     
     // When the player changes in size.
     private void OnPlayerScale(float scalar) {
         // Check if size exceeds maximum player size
-        if(scalar >= playerScaleThresh) {
-            ProgressLevel ();
+        if(scalar >= playerScaleThresh ) {
+            if (!transititoning) {
+                player.gameObject.GetComponent<BoxCollider2D> ().enabled = false;
+                StartCoroutine (ProgressLevel ());
+                transititoning = true;
+            }
             return;
         }
 
-        // zoom the camera out
+        // Set the camera's target zoom
         float zoom = (scalar / playerScaleThresh) * (maxCameraSize - cameraInitSize);
-        mainCamera.orthographicSize = cameraInitSize + zoom;
+        cameraTargetSize = cameraInitSize + zoom;
     }
 
-    private void ProgressLevel () {
+    void Update () {
+        // Zoom the camera towards it's target zoom
+        mainCamera.orthographicSize = Mathf.Lerp (mainCamera.orthographicSize, cameraTargetSize, cameraLerpSpeed * Time.deltaTime);
+    }
 
+    IEnumerator ProgressLevel () {
+        for(int i = 0; i < incrementCount; ++i) {
+            player.gameObject.transform.localScale = new Vector3 (
+                player.gameObject.transform.localScale.x * incrementScale,
+                player.gameObject.transform.localScale.y * incrementScale, 
+                player.gameObject.transform.localScale.z
+            );
+
+            yield return new WaitForSeconds (waitTime);
+        }
+        SceneManager.LoadScene (nextScene);
+    }
+
+    public void Pause (float duration = 0) {
+        if (!paused) {
+            savedTimeScale = Time.timeScale;
+            Time.timeScale = 0;
+            paused = true;
+
+            if(duration > 0) {
+                Invoke ("UnPause", duration);
+            }
+        }
+    }
+
+    public void UnPause () {
+        if (paused) {
+            Time.timeScale = savedTimeScale;
+            paused = false;
+        }
     }
 }
