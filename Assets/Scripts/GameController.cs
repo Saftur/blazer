@@ -5,14 +5,14 @@ using UnityEngine;
 public class GameController : MonoBehaviour {
 
     [Header ("References")]
-    [SerializeField] private Camera mainCamera;
-    [SerializeField] private Scalable player;
+    [SerializeField] private Camera mainCamera = default;
+    [SerializeField] private Scalable player = default;
 
     [Header ("Gameplay")]
     [Tooltip("Maximum player scale before changing levels")]
-    [SerializeField] private float playerScaleThresh;
+    [SerializeField] private float playerScaleThresh = default;
     [Tooltip ("Maximum size of the camera before changing levels")]
-    [SerializeField] private float maxCameraSize;
+    [SerializeField] private float maxCameraSize = default;
 
     // Initial size of the camera
     private float cameraInitSize;

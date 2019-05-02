@@ -267,6 +267,7 @@ GameObject:
   - component: {fileID: 1468983304}
   - component: {fileID: 1468983305}
   - component: {fileID: 1468983309}
+  - component: {fileID: 1468983310}
   m_Layer: 0
   m_Name: PLAUER
   m_TagString: Untagged
@@ -392,6 +393,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1468983310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468983303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48ea95cdfbb485c4dae152e389279c4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 100
 --- !u!1 &2128818032
 GameObject:
   m_ObjectHideFlags: 0
