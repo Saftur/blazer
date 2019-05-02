@@ -26,8 +26,10 @@ public class GameController : MonoBehaviour {
     [Header ("Level Transition")]
     [Tooltip ("How many increment cycles to have")]
     [SerializeField] private int incrementCount = 10;
-    [Tooltip ("How much to scale size each increment cycle")]
-    [SerializeField] private float incrementScale = 1.1f;
+    [Tooltip ("How much to scale player size each increment cycle")]
+    [SerializeField] private float playerIncrementScale = 1.1f;
+    [Tooltip ("How much to scale camera size each increment cycle")]
+    [SerializeField] private float cameraIncrementScale = 1.1f;
     [Tooltip ("Delay between increment cycles")]
     [SerializeField] private float waitTime = 0.05f;
 
@@ -82,10 +84,12 @@ public class GameController : MonoBehaviour {
     IEnumerator ProgressLevel () {
         for(int i = 0; i < incrementCount; ++i) {
             player.gameObject.transform.localScale = new Vector3 (
-                player.gameObject.transform.localScale.x * incrementScale,
-                player.gameObject.transform.localScale.y * incrementScale, 
+                player.gameObject.transform.localScale.x * playerIncrementScale,
+                player.gameObject.transform.localScale.y * playerIncrementScale, 
                 player.gameObject.transform.localScale.z
             );
+
+            mainCamera.orthographicSize = mainCamera.orthographicSize * cameraIncrementScale;
 
             yield return new WaitForSeconds (waitTime);
         }

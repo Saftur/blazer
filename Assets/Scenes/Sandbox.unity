@@ -238,6 +238,10 @@ MonoBehaviour:
   playerScaleThresh: 2
   maxCameraSize: 10
   cameraLerpSpeed: 2
+  incrementCount: 50
+  playerIncrementScale: 1.05
+  cameraIncrementScale: 1.01
+  waitTime: 0.00001
 --- !u!4 &304747068
 Transform:
   m_ObjectHideFlags: 0
