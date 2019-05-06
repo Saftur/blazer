@@ -12,7 +12,7 @@ public class Scalable : MonoBehaviour
     private Vector3 Scale;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         Scale = gameObject.transform.localScale;
     }
